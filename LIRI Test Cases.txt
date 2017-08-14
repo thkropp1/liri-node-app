@@ -1,0 +1,13 @@
+node liri my-tweets
+
+node liri spotify-this-song All Shook Up
+
+node liri spotify-this-song
+
+node liri movie-this Hidden Figures
+
+node liri movie-this
+
+node liri do-what-it-says
+
+node liri sss Hidden Figures          -- incorrect command
