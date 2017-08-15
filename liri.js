@@ -223,7 +223,7 @@ function doWhatItSays() {
     }
 
     // Create an array from the string
-    data = data.split(",");
+    var data = data.split(",");
 
     // Loop through data array and parse the elements into variables
     for (var i = 0; i < data.length; i++) {
