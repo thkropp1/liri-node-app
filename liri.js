@@ -74,7 +74,7 @@ switch (action) {
 
   default:
     console.log("Invalid command. Please try again.");
-    appendFile("\r\n\r\nInvalid command. Please try again.\r\n");
+    fs.appendFileSync('log.txt', "\r\n\r\nInvalid command. Please try again.\r\n");
     break;
 }
 
