@@ -21,7 +21,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 * NPM IMDB    [OMDB API](http://www.omdbapi.com).
 * Ajax 
 
-##Notes 
+Notes: 
 
 * LIRI will display your latest tweets. If you dont have a Twitter account it will default to my Twitter if no parameters are inputted.
 
